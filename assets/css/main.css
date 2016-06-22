@@ -299,7 +299,7 @@ nav.tabs ul {
 
 nav.tabs ul li {
   float: left;
-  width: 20%;
+  width: 14%;
   font-size: 14px;
   position: relative;
   padding: 0;
@@ -321,7 +321,7 @@ nav.tabs ul li a {
   text-decoration: none;
   position: absolute;
   top: 0;
-  left: 10px;
+  left: 5px;
   z-index: 20;
   width: 100%;
   height: 58px;
