@@ -193,7 +193,7 @@ nav.tabs ul li {
 
 nav.tabs ul li.current a {
   background-color: #223152;
-  top: -25px;
+  top: 0px;
   height: 83px;
   padding-top: 25px;
 }
@@ -203,7 +203,7 @@ nav.tabs ul li a {
   text-decoration: none;
   position: absolute;
   top: 0;
-  left: 5px;
+  left: 0px;
   z-index: 20;
   width: 100%;
   height: 58px;
